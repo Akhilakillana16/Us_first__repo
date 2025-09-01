@@ -1,3 +1,3 @@
 Akhila killana
 bsc computer science 
-gut hub is a online platform to store git projects 
+ git hub is a online platform to store git projects 
